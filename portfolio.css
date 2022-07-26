@@ -1,3 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .container {
   background-color: aqua;
+  width: 100vw;
+  height: 100vh;
+}
+
+.profile-container {
+  background-color: purple;
+}
+
+.knowledge-container {
+  background-color: red;
+}
+
+.knowledge-container h1 {
+  font-size: 1em;
+}
+
+.how-to-container {
+  background-color: green;
 }
